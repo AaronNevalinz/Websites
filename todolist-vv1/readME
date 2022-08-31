@@ -1,0 +1,14 @@
+TECHNICAL DEPENDENCIES of the toDo list application
+
+It is a simple and basic level toDoList web application that is developed using the programming languages HTML, CSS, Javascript, and EJS.
+some dependencies are required to be installed for this project that involves ejs, express, and body-parser.
+
+npm init -y
+npm i express, ejs, body-parser
+
+SOFTWARE SPECIFICATIONS
+
+Project Platform: Node JS
+Programming Language: HTML, CSS, JavaScript, EJS
+IDE Tool: Visual Studio Code, Atom or any IDE
+Database: None
